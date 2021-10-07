@@ -39,20 +39,21 @@ worked on Aviation accident.
 
 Skills
 --------------------
-
-Front-End 
+**Front-End:**
 : Html-CSS-jquery-javascript-bootstrap 
 
-Back-end
+**Back-end**
 : PHP, Python(Django Framework) , java(Spring)(basic)
 
-Data Base
-: MongoDB, SQL , Sqlite
+**Database**
+: MongoDB, SQL , Sqlite,Postgre
 
+**Programming Languages**:
+Cpp, Java , Python, Go, PHP
+
+**Other Skills**:
 Design Pattern
-
 Alghorithm
-
 Network
 
 [ref]: https://github.com/iimohammad
