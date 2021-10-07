@@ -16,7 +16,7 @@ Education
    
 
 2015-2019
-:   **BSc, Aerospacd Engineering**; Sharif University of
+:   **BSc, Aerospace Engineering**; Sharif University of
     Technology (Tehran)
 
 
