@@ -40,7 +40,7 @@ Skills
 : PHP, Python(Django Framework) , java(Spring)(basic)
 
 **Database**
-: MongoDB, SQL , Sqlite,Postgre
+: MongoDB, SQL , Sqlite,Postgre sql
 
 **Programming Languages**:
 Cpp, Java , Python, Go, PHP
