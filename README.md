@@ -41,13 +41,19 @@ Skills
 --------------------
 
 Front-End 
-:   I know front-end web developement.<br>
-Html-CSS-jquery-javascript-bootstrap 
+: Html-CSS-jquery-javascript-bootstrap 
 
 Back-end
-:   I know back-end web developement. <br>
-PHP, Python(Django Framework) , java(Spring)(basic)
+: PHP, Python(Django Framework) , java(Spring)(basic)
 
+Data Base
+: MongoDB, SQL , Sqlite
+
+Design Pattern
+
+Alghorithm
+
+Network
 
 [ref]: https://github.com/iimohammad
 
