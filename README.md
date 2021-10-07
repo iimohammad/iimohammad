@@ -1,11 +1,5 @@
 Mohammad Baharlou
 ============
-<p align=left>
-:iphone: Phone Number: +989912760058  <br>
-
-:email: Email: mohammadbaharloo96@gmil.com 
-</p>
-
 About me
 ---------
 An engineer from the Sharif University of Technology with skills in software programming and high social communication.
