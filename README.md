@@ -11,7 +11,7 @@ Education
 ---------
 
 2020-2022 (expected)
-:   **MSc, Computer Science**; Waiting
+:   **MSc, Computer Science**; Isfahan University
 
    
 
