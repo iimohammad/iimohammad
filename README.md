@@ -3,7 +3,7 @@ Mohammad Baharlou
 About me
 ---------
 An engineer from the Sharif University of Technology with skills in software programming and high social communication.
-I worked as a software developer in private companies for 3 years. I word hard to be the best in my field.
+I worked as a software developer in private companies for 5 years. I word hard to be the best in my field.
 
 
 
