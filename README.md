@@ -23,10 +23,9 @@ Education
 Experience
 ----------
 **Software Developer:**
-Iran Khodro company
 
 **Software Developer:**
-worked as a freelance with Golang, PHP, Python.
+worked as a freelance with Python.
 
 **Software Developer:**
 My main responsibility is to work on real-time signal processing by Qt-framework.
@@ -40,13 +39,13 @@ Skills
 : Html-CSS-jquery-javascript-bootstrap 
 
 **Back-end**
-: PHP, Python(Django Framework) , java(Spring)(basic)
+:Python(Django Framework)
 
 **Database**
 : MongoDB, SQL , Sqlite,Postgre sql
 
 **Programming Languages**:
-Cpp, Java , Python, Go, PHP
+Cpp,Python
 
 **Other Skills**:
 Design Pattern
