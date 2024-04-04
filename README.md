@@ -2,8 +2,10 @@ Mohammad Baharlou
 ============
 About me
 ---------
-An engineer from the Sharif University of Technology with skills in software programming and high social communication.
-I worked as a software developer in private companies for 5 years. I word hard to be the best in my field.
+Meet Mohammad, a seasoned web developer renowned for crafting digital wonders. With a mastery of Python, Django, and REST frameworks, Mohammad navigates web development intricacies with finesse. Whether scraping data or sculpting user experiences with React, JavaScript, and CSS, he thrives on pushing innovation boundaries.
+Armed with four years of experience and a master's in computer engineering, Mohammad blends expertise and creativity. He's passionate about fostering business growth and exceeding client expectations. From optimizing backend processes to designing captivating frontend interfaces, Mohammad's dedicated to driving success.
+Eager for new challenges, Mohammad strives to elevate standards, inspire others, and shape a brighter digital future with each project.
+
 
 
 
