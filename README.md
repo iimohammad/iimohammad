@@ -16,13 +16,12 @@ Education
 ---------
 
 2020-2022 (expected)
-:   **MSc, Computer Science**; Isfahan University
+:   **MSc, Computer Science**
 
    
 
 2015-2019
-:   **BSc, Computer Engineering**; Sharif University of
-    Technology (Tehran)
+:   **BSc, Computer Engineering**
 
 
 Experience
