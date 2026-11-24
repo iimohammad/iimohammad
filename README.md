@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Mohammad Baharlou — AI engineering, full-stack products, and DevOps." width="100%" />
+  <img src="./assets/profile-header.webp" alt="Mohammad Baharlou — AI engineering, full-stack products, and DevOps." width="100%" />
 </p>
 
 # Hi, I'm Mohammad Baharlou
