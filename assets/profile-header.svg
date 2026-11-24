@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Mohammad Baharlou — Build products. Run them well.</title>
+  <title id="title">Mohammad Baharlou — AI engineering, full-stack products, and DevOps.</title>
   <desc id="desc">A dark navy profile banner with blue and teal accents and an abstract geometric monogram.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -18,9 +18,9 @@
   <path d="M720 0H1180Q1200 0 1200 20V300Q1200 320 1180 320H720Z" fill="url(#grid)"/>
   <rect x="48" y="42" width="36" height="4" rx="2" fill="url(#accent)"/>
   <text x="48" y="78" fill="#a5bad4" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">MOHAMMAD BAHARLOU / @IIMOHAMMAD</text>
-  <text x="44" y="148" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Build products.</text>
+  <text x="44" y="148" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-2">AI-powered products.</text>
   <text x="44" y="214" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Run them well.</text>
-  <text x="48" y="270" fill="#a5bad4" font-family="Arial, Helvetica, sans-serif" font-size="19">BACKEND / FULL-STACK / DEVOPS / AI</text>
+  <text x="48" y="270" fill="#a5bad4" font-family="Arial, Helvetica, sans-serif" font-size="19">AI ENGINEERING / FULL-STACK / DEVOPS</text>
   <g fill="none" stroke="#365172">
     <circle cx="986" cy="160" r="119" opacity=".55"/>
     <circle cx="986" cy="160" r="94" opacity=".6" stroke-dasharray="4 9"/>
