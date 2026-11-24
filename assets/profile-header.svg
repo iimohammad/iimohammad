@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammad Baharlou — Build products. Run them well.</title>
+  <desc id="desc">A dark navy profile banner with blue and teal accents and an abstract geometric monogram.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101d35"/>
+      <stop offset="1" stop-color="#08111f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#5eead4"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#22314a" stroke-width="1" opacity=".45"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <path d="M720 0H1180Q1200 0 1200 20V300Q1200 320 1180 320H720Z" fill="url(#grid)"/>
+  <rect x="48" y="42" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <text x="48" y="78" fill="#a5bad4" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">MOHAMMAD BAHARLOU / @IIMOHAMMAD</text>
+  <text x="44" y="148" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Build products.</text>
+  <text x="44" y="214" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Run them well.</text>
+  <text x="48" y="270" fill="#a5bad4" font-family="Arial, Helvetica, sans-serif" font-size="19">BACKEND / FULL-STACK / DEVOPS / AI</text>
+  <g fill="none" stroke="#365172">
+    <circle cx="986" cy="160" r="119" opacity=".55"/>
+    <circle cx="986" cy="160" r="94" opacity=".6" stroke-dasharray="4 9"/>
+    <path d="M771 86H825L854 115M1104 207H1146M870 247H812L786 273" opacity=".8"/>
+  </g>
+  <rect x="910" y="84" width="152" height="152" rx="32" fill="#12253e" stroke="#365172" transform="rotate(-8 986 160)"/>
+  <rect x="916" y="90" width="140" height="140" rx="27" fill="#0f1c30" stroke="#406184"/>
+  <text x="986" y="180" text-anchor="middle" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="700" letter-spacing="-4">MB</text>
+  <circle cx="986" cy="41" r="5" fill="#60a5fa"/>
+  <circle cx="1105" cy="160" r="5" fill="#5eead4"/>
+  <circle cx="867" cy="160" r="4" fill="#60a5fa"/>
+  <circle cx="986" cy="279" r="4" fill="#5eead4"/>
+</svg>
