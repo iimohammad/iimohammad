@@ -10,7 +10,9 @@ I build AI-powered products end to end: knowledge pipelines, model fine-tuning, 
 
 My work spans education, e-commerce, customer operations, content automation, storage, and developer tools. I connect AI engineering with practical software delivery, from model evaluation and inference to deployment, monitoring, and backups.
 
-[Medicalstus](https://medicalstus.ir) · [Goftogohub](https://goftogohub.ir) · [Negahbanweb](https://negahbanweb.ir) · [Public repositories](https://github.com/iimohammad?tab=repositories)
+[medicalstus.ir](https://medicalstus.ir) · [app.medicalstus.ir](https://app.medicalstus.ir) · [boofetime.ir](https://boofetime.ir)  
+[primedev.ai](https://primedev.ai) · [shop.primedev.ai](https://shop.primedev.ai) · [alsaas.ae](https://alsaas.ae/)  
+[Goftogohub](https://goftogohub.ir) · [Negahbanweb](https://negahbanweb.ir) · [Public repositories](https://github.com/iimohammad?tab=repositories)
 
 ## AI & LLM engineering
 
